@@ -1,0 +1,27 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "\"我的博客\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev docs",
+    "build": "witepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sterrenlove/myBlog.git"
+  },
+  "author": "\"xiaoluobo\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sterrenlove/myBlog/issues"
+  },
+  "homepage": "https://github.com/Sterrenlove/myBlog#readme",
+  "devDependencies": {
+    "stylus": "^0.58.1",
+    "stylus-loader": "^7.0.0",
+    "vitepress": "^1.0.0-alpha.4"
+  }
+}
