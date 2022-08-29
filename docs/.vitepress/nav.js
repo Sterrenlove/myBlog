@@ -3,18 +3,20 @@ const nav = [
     text: "小萝卜成长记",
     items: [
       {
-        text: "Vue3",
-        link: "/pages/study/vue3",
-        // items: [
-        //   {
-        //     text: "认识Vim",
-        //     link: "/pages/vim/knowVim",
-        //   },
-        //   {
-        //     text: "命令",
-        //     link: "/pages/vim/command",
-        //   },
-        // ],
+        text: "Javascript",
+        link: "/pages/study/js",
+      },
+      {
+        text: "Vue",
+        link: "/pages/study/vue",
+      },
+      {
+        text: "Scss",
+        link: "/pages/study/scss",
+      },
+      {
+        text: "小程序",
+        link: "/pages/study/小程序",
       },
       
     ],
@@ -28,7 +30,7 @@ const nav = [
       },
       {
         text: "vue相关",
-        link: "/pages/problem/git",
+        link: "/pages/problem/vue",
       },
     ],
   },
